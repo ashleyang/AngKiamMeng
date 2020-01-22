@@ -4,6 +4,7 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Ang;Kiam Meng;;;
 FN: Ang Kiam Meng 
 ORG:JUMBO Group Limited;
+PHOTO:attachFromUrl('Self Potrait (3).jpg');
 TITLE:Group CEO and Executive Director\n Board of Directors
 EMAIL;type=INTERNET;type=WORK;type=pref:ang.kiammeng@jumbogroup.com.sg
 SOCIALPROFILE;type=linkedin:http:www.linkedin.com/in/kiam-meng-ang-58793110a/?trk=people-guest_people_search-card&originalSubdomain=sg
